@@ -15,13 +15,19 @@ Need some inspiration or guidance? Check out [Five-Tutorials](https://github.com
 
 For visual learners, our [Five-YouTube-Channel](https://www.youtube.com/c/Five.co) offers a range of video tutorials and showcases to get you up to speed.
 
-## 📄Templates
+## 📄 Templates
 Wondering how you can leverage Five for your projects? Dive into our Use Cases to discover a number of template applications that fit your need. <br>
 Whether you're new to the platform or just looking for inspiration, downloading a template is the quickest way to get up and running. These templates are pre-designed with best practices in mind, allowing you to focus on customization and bringing your unique vision to life.
 
-## 🎥Youtube
-Looking for a visual introduction to Five? Our YouTube channel is the perfect place to start. We've curated a list of beginner-friendly videos to help you hit the ground running:
-- 
+## 🎥 Youtube
+
+For a hands-on visual experience of what Five offers, our [YouTube channel](https://www.youtube.com/@five_co/videos) is the place to be. Here are some videos tailored for both beginners and seasoned developers:
+
+- [**Five - Demo [2023]**](https://www.youtube.com/watch?v=rlUedk9SzCE&ab_channel=Five): A comprehensive overview of Five's capabilities.
+- [**From Spreadsheet to Web-Based Database Application**](https://www.youtube.com/watch?v=68781RaM6Zg&t=642s&ab_channel=Five): Transition from traditional spreadsheets to dynamic web-based applications with Five.
+- [**Building a Web App with Five**](https://www.youtube.com/watch?v=9fLfgusrDVU&t=1218s&ab_channel=Five): Understand the quick start guide and build a portfolio application through a visual step-by-step tutorial.
+- [**Building a Northwind Database Web Application**](https://www.youtube.com/watch?v=M1dMCK2xrYQ&t=50s&ab_channel=Five): A practical guide on constructing a web application using the renowned Northwind database with Five.
+
 
 
 ## 👩‍💻 Resources for building
