@@ -1,15 +1,28 @@
-# Hi there 👋
+# Hello And Welcome To Five👋
 
-## ⚡ About us
-If you're discovering Five for the first time, a warm welcome to you! Five is all about simplifying the development process without compromising on depth. Dive into the world of low-code with a twist at [five.co](https://five.co).
+### ⚡ About us
+If you're discovering Five for the first time, a warm welcome to you! Five is all about simplifying the development process without compromising on complexity. Dive into the world of low-code at [five.co](https://five.co).
 
-## 🗺️ This README
-This README is your guide to navigating Five's GitHub space. For a deeper dive into what Five offers, our official site is the place to be.
+### 📝 This README
+This README is your guide to navigating Five's GitHub space. For a deeper dive into what Five offers, [our official site is the place to be](https://five.co/features/).
 
-## ✨ Open source projects
-Five believes in the power of community. We have an open-source section where you can find tools and extensions crafted by our team and the vibrant Five community.
+# 📖 Learning
+Checkout the official [documentation for Five](https://help.five.org/2.1/) here
 
-- [five-open-projects](https://github.com/five/build) - A curated list of open-source tools and extensions built around the Five platform.
+New to Five? Don't worry! Check out our [Quick Start Guide](https://help.five.org/2.1/docs/getting-started/quick-start-guide/introduction). It's a simple step-by-step guide to help you learn how to easily create a full-stack web app using Five.
+
+Need some inspiration or guidance? Check out [Five-Tutorials](https://github.com/five/tutorials) for a collection of how-tos and best practices.
+
+For visual learners, our [Five-YouTube-Channel](https://www.youtube.com/c/Five.co) offers a range of video tutorials and showcases to get you up to speed.
+
+## 📄Templates
+Wondering how you can leverage Five for your projects? Dive into our Use Cases to discover a number of template applications that fit your need. <br>
+Whether you're new to the platform or just looking for inspiration, downloading a template is the quickest way to get up and running. These templates are pre-designed with best practices in mind, allowing you to focus on customization and bringing your unique vision to life.
+
+## 🎥Youtube
+Looking for a visual introduction to Five? Our YouTube channel is the perfect place to start. We've curated a list of beginner-friendly videos to help you hit the ground running:
+- 
+
 
 ## 👩‍💻 Resources for building
 Want to integrate with Five or extend its capabilities? Here are some resources to get you started:
@@ -22,12 +35,7 @@ Looking to embed Five within your applications or platforms? Here's a handy reso
 
 - [five-embed-wrapper](https://github.com/five/embed-wrapper): A guide and toolkit for seamlessly embedding Five into your projects.
 
-## 📖 Resources for learning
-New to Five? Our Five-Starter-Guide is the perfect place to kick things off.
 
-Need some inspiration or guidance? Check out [Five-Tutorials](https://github.com/five/tutorials) for a collection of how-tos and best practices.
-
-For visual learners, our [Five-YouTube-Channel](https://www.youtube.com/c/FivePlatform) offers a range of video tutorials and showcases to get you up to speed.
 
 
 <!--
