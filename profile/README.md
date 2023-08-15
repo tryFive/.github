@@ -17,9 +17,9 @@ For visual learners, our [Five-YouTube-Channel](https://www.youtube.com/c/Five.c
 
 ## 🧭 Quick Start Guide
 the Quick Start Guide is a comprehensive resource that walks users through the process of developing a Portfolio application using Five, from the initial steps to the final deployment. It provides both written instructions and visual aids to ensure a smooth learning experience. It is divided into two sections:
-1. Quick Start Guide: The Quick Start Guide is more of an introduction, helping users get started with the basics of Five.
+1. [Quick Start Guide](https://help.five.org/2.1/docs/getting-started/quick-start-guide/introduction): The Quick Start Guide is more of an introduction, helping users get started with the basics of Five.
 
-2. Intermediate: The Intermediate section of Five's documentation offers a deeper dive into the platform's capabilities, building upon the foundational knowledge acquired from the Quick Start Guide. it continues building on the portfolio application from the Quick Start Guide.
+2. [Intermediate](https://help.five.org/2.1/docs/getting-started/quick-start-guide/intermediate/introduction): The Intermediate section of Five's documentation offers a deeper dive into the platform's capabilities, building upon the foundational knowledge acquired from the Quick Start Guide. it continues building on the portfolio application from the Quick Start Guide.
 
 ## 📄 Templates
 Wondering how you can leverage Five for your projects? Dive into our [Use Cases](https://five.co/use-cases/) to discover a number of template applications that fit your need. <br>
