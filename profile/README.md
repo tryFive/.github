@@ -13,7 +13,7 @@ Checkout the official [documentation for Five](https://help.five.org/2.1/) here
 
 New to Five? Don't worry! Check out our [Quick Start Guide](https://help.five.org/2.1/docs/getting-started/quick-start-guide/introduction). It's a simple step-by-step guide to help you learn how to easily create a full-stack web app using Five.
 
-Need some inspiration or guidance? Check out our Use Cases.
+Need some inspiration or guidance? Explore our [Use Cases](https://five.co/use-cases/) to get some ideas of what Five can do.
 
 For visual learners, our [Five-YouTube-Channel](https://www.youtube.com/c/Five.co) offers a range of video tutorials and showcases to get you up to speed.
 
