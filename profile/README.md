@@ -21,17 +21,7 @@ the Quick Start Guide is a comprehensive resource that walks users through the p
 
 2. [Intermediate](https://help.five.org/2.1/docs/getting-started/quick-start-guide/intermediate/introduction): The Intermediate section of Five's documentation offers a deeper dive into the platform's capabilities, building upon the foundational knowledge acquired from the Quick Start Guide. it continues building on the portfolio application from the Quick Start Guide.
 
-## 📄 Templates
-Wondering how you can leverage Five for your projects? Dive into our [Use Cases](https://five.co/use-cases/) to discover a number of template applications that fit your need. <br>
-Whether you're new to the platform or just looking for inspiration, downloading a template is the quickest way to get up and running. These templates are pre-designed with best practices in mind, allowing you to focus on customization and bringing your unique vision to life. Here are a few of them to help you get started: 
-1. **[Project Management Tool](https://five.co/use-cases/project-management-tool/)**
-   - Enhance team collaboration with Five's tailored Project Management Tool. Seamlessly track tasks, meet deadlines, and customize to your team's needs.
 
-2. **[Learning Management System](https://five.co/use-cases/learning-management-system/)**
-   - Elevate learning with Five's LMS. Administer, deliver, and track educational content, promoting skill development and enriched learning experiences.
-
-3. **[Property Management Software](https://five.co/use-cases/property-management-software/)**
-   - Streamline property management with Five. Centralize tenant management, rent collection, and maintenance tasks for improved tenant satisfaction and financial management.
 
 
 ## 🎥 Youtube
@@ -47,19 +37,34 @@ For a hands-on visual experience of what Five offers, our [YouTube channel](http
 - [**Building a Northwind Database Web Application**](https://www.youtube.com/watch?v=M1dMCK2xrYQ&t=50s&ab_channel=Five): A practical guide on constructing a web application using the renowned Northwind database with Five.
 
 
-
-## 👩‍💻 Resources for building
-Want to integrate with Five or extend its capabilities? Here are some resources to get you started:
-
-- [five-integration-guides](https://github.com/five/integration-guides) - Step-by-step guides to integrate Five with other platforms.
-- [five-custom-modules](https://github.com/five/custom-modules) - Resources to help you build and deploy custom modules for Five.
-
-## 📌 Embedding Five
-Looking to embed Five within your applications or platforms? Here's a handy resource:
-
-- [five-embed-wrapper](https://github.com/five/embed-wrapper): A guide and toolkit for seamlessly embedding Five into your projects.
+## 🔧Training Applications
 
 
+- [The Book Club application](https://help.five.org/2.1/docs/learning-resources/training-plans/book-club/introduction) is a step-by-step training plan on Five, guiding users from basic to advanced platform features. The tutorial is segmented into: 
+
+   - [**Beginner**](https://help.five.org/2.1/docs/learning-resources/training-plans/book-club/beginner/create-a-multiuser-application)
+   - [**Intermediate**](https://help.five.org/2.1/docs/learning-resources/training-plans/book-club/intermediate/connect-with-system-database/)
+   - [**Advanced sections**](https://help.five.org/2.1/docs/learning-resources/training-plans/book-club/advanced/add-a-table-event/add-save-book-before-update-event)
+- [Restaurant Ordering System (ROS) Application](https://help.five.org/2.1/docs/learning-resources/training-plans/restaurant-ordering-system/introduction) is a specialized tool for restaurants with multiple branches, simplifying the product ordering process for each outlet.
+     - API Integration: Comes with numerous API examples for enhanced functionality.
+     - User Management: Demonstrates how to create and assign roles to users.
+     - Beginner-Friendly: While tailored for those familiar with Five, it's accessible for newcomers. However, they're advised to start with Five's foundational training guides.
+
+# 👩‍💻 Resources for building
+[Five's learning resources](https://help.five.org/2.1/docs/learning-resources/introduction) are tailored to help you get acquainted swiftly. Dive into our comprehensive training applications to grasp the platform's capabilities or jumpstart your project using templates
+- [Plugins](https://github.com/tryFive/Plugins) - Learn how you can intergrate your own custom components inside Five
+
+## 📄 Templates
+Wondering how you can leverage Five for your projects? Dive into our [Use Cases](https://five.co/use-cases/) to discover a number of template applications that fit your need. <br>
+Whether you're new to the platform or just looking for inspiration, downloading a template is the quickest way to get up and running. These templates are pre-designed with best practices in mind, allowing you to focus on customization and bringing your unique vision to life. Here are a few of them to help you get started: 
+1. **[Project Management Tool](https://five.co/use-cases/project-management-tool/)**
+   - Enhance team collaboration with Five's tailored Project Management Tool. Seamlessly track tasks, meet deadlines, and customize to your team's needs.
+
+2. **[Learning Management System](https://five.co/use-cases/learning-management-system/)**
+   - Elevate learning with Five's LMS. Administer, deliver, and track educational content, promoting skill development and enriched learning experiences.
+
+3. **[Property Management Software](https://five.co/use-cases/property-management-software/)**
+   - Streamline property management with Five. Centralize tenant management, rent collection, and maintenance tasks for improved tenant satisfaction and financial management.
 
 
 <!--
